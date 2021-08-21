@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\HashTable\\HashTable.csproj": {}
+    "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\Day_15_HashTable\\HashTable\\HashTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\HashTable\\HashTable.csproj": {
+    "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\Day_15_HashTable\\HashTable\\HashTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\HashTable\\HashTable.csproj",
+        "projectUniqueName": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\Day_15_HashTable\\HashTable\\HashTable.csproj",
         "projectName": "HashTable",
-        "projectPath": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\HashTable\\HashTable.csproj",
+        "projectPath": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\Day_15_HashTable\\HashTable\\HashTable.csproj",
         "packagesPath": "C:\\Users\\dayas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\HashTable\\obj\\",
+        "outputPath": "C:\\Users\\dayas\\programcodes\\Day_15_Practice\\HashTable\\Day_15_HashTable\\HashTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dayas\\AppData\\Roaming\\NuGet\\NuGet.Config",
